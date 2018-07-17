@@ -1,0 +1,6 @@
+{
+  "apps" : [{
+  	"name" : "PI-IO",
+    "script"    : "ioServer-v2.js"
+  }]
+}
